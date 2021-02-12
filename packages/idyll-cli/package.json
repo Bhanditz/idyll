@@ -34,7 +34,7 @@
     "babyparse": "^0.4.6",
     "bluebird": "^3.5.0",
     "brfs": "^1.4.3",
-    "browser-sync": "^2.18.8",
+    "browser-sync": "^2.26.9",
     "browserify": "^14.3.0",
     "browserify-incremental": "^3.1.1",
     "change-case": "^3.0.1",
