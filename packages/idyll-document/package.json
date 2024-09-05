@@ -22,7 +22,7 @@
     ]
   },
   "dependencies": {
-    "change-case": "^3.0.1",
+    "change-case": "^4.0.0",
     "cross-env": "^5.0.5",
     "html-tags": "^2.0.0",
     "object.entries": "^1.0.4",
